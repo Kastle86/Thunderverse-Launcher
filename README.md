@@ -32,7 +32,6 @@ The source code for the project will be available very soon.
 
 ### Known issues:
 - If you failing to download any game even if Itch.io API-key is correct, check if "https://itch.io" is not blocked in your country. If so - please use VPN or proxy
-- Top-right "👤" button is not working. There is no current function for it right now.
 - Patreon functionality is not working in certain countries due to censorship, please use VPN or proxy
 
 
