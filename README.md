@@ -8,10 +8,10 @@ A core of project lies within our discord server "Thunderverse"
 
 ## Features
 
-- **Cross-platform UI** – built with Qt for a clean, native experience.
-- **Auto-updates** – the launcher can check GitHub Releases and update itself.
-- **One-click start** – launch Thunderverse apps directly from the launcher.
-- **DragonSnow's "Changed Special" updates** – Download fresh Changed Special builds directly from patreon (active subscription required)
+- **Cross-platform UI** - built with Qt for a clean, native experience.
+- **Auto-updates** - the launcher can check GitHub Releases and update itself.
+- **One-click start** - launch Thunderverse apps directly from the launcher.
+- **DragonSnow's "Changed Special" updates** - Download fresh Changed Special builds directly from patreon (active subscription required)
 
 ---
 
@@ -29,6 +29,11 @@ Currently the launcher is only provided as a Windows build.
 ## LAUNCHER IS CURRENTLY IN BETA.
 
 The source code for the project will be available very soon.
+
+## Features soon available:
+- Synchronization with Thunderverse's discord bot
+- Search for ANY FREE itch.io project
+- Extended project details
 
 ### Known issues:
 - If you failing to download any game even if Itch.io API-key is correct, check if "https://itch.io" is not blocked in your country. If so - please use VPN or proxy
