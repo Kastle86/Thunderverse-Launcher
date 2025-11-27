@@ -36,6 +36,8 @@ The source code for the project will be available very soon.
 - Extended project details
 
 ### Known issues:
+
+- If you get "couldn't find any downloadable files" and "can't unpack non-iterable object, that means YOU HAVE NOT SET YOUR ITCH.IO API KEY. Go to settings of launcher, click "itch.io api" button and follow instructions.
 - If you failing to download any game even if Itch.io API-key is correct, check if "https://itch.io" is not blocked in your country. If so - please use VPN or proxy
 - Patreon functionality is not working in certain countries due to censorship, please use VPN or proxy
 
